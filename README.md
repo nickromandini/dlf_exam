@@ -1,1 +1,1 @@
-# Exam for the PhD Course "A Comparative Introduction to Deel Learning Framework: TensorFlow, PyTorch, JAX"
+# Exam for the PhD Course "A Comparative Introduction to Deep Learning Framework: TensorFlow, PyTorch, JAX"
